@@ -1,5 +1,5 @@
 # Loan-Status-Prediction
-cat > README.md << 'EOF'
+
 # 🏦 Loan Status Prediction using SVM
 
 This machine learning project predicts whether a loan will be approved based on applicant details using a Support Vector Machine (SVM) classifier.
